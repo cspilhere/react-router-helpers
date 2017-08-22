@@ -1,10 +1,11 @@
 {
   "name": "react-router-helpers",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "React Router helpers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel src --out-file index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/cspilhere/react-router-helpers/issues"
   },
-  "homepage": "https://github.com/cspilhere/react-router-helpers#readme"
+  "homepage": "https://github.com/cspilhere/react-router-helpers#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-router-dom": "^4.1.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1"
+  }
 }
