@@ -1,6 +1,6 @@
 {
   "name": "react-router-helpers",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "React Router helpers",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
     "babel-cli": "^6.0.0",
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
+    "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
     "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.24.1"
   }
