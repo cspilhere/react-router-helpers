@@ -1,0 +1,19 @@
+{
+  "name": "react-router-helpers",
+  "version": "1.0.0",
+  "description": "React Router helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cspilhere/react-router-helpers.git"
+  },
+  "author": "@cspilhere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cspilhere/react-router-helpers/issues"
+  },
+  "homepage": "https://github.com/cspilhere/react-router-helpers#readme"
+}
