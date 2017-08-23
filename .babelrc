@@ -3,5 +3,8 @@
     "babel-preset-react",
     "babel-preset-env"
   ],
-  "plugins": ["transform-es2015-modules-umd"]
+  "plugins": [
+    "transform-es2015-modules-umd",
+    "transform-runtime"
+  ]
 }
