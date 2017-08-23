@@ -1,6 +1,6 @@
 {
   "name": "react-router-helpers",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "React Router helpers",
   "main": "index.js",
   "module": "dist/index.js",
